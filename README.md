@@ -1,5 +1,5 @@
 ## Hello <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-I'm Andressa Marçal :brazil:
+**I'm Andressa Marçal** :woman_technologist: :brazil:
 
 :mailbox:  andressagb@gmail.com
 <br>

@@ -1,8 +1,9 @@
 ## Hello <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 I'm Andressa Marçal :brazil:
 
-:mailbox: andressagb@gmail.com
-:mortar_board: Computer Science
+:mailbox:  andressagb@gmail.com
+<br>
+:mortar_board:  Computer Science
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-andressamarcal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andressa-mar%C3%A7al-6787b988/)](https://www.linkedin.com/in/andressa-mar%C3%A7al-6787b988/)

@@ -4,6 +4,8 @@
 :mailbox:  andressagb@gmail.com
 <br>
 :mortar_board:  Computer Science
+:mortar_board:  Post Graduate in Machine Learning at PUC Minas
+:mortar_board: Master's Student at Unicamp
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-andressamarcal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andressa-mar%C3%A7al-6787b988/)](https://www.linkedin.com/in/andressa-mar%C3%A7al-6787b988/)

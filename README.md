@@ -4,7 +4,9 @@
 :mailbox:  andressagb@gmail.com
 <br>
 :mortar_board:  Computer Science
+<br>
 :mortar_board:  Post Graduate in Machine Learning at PUC Minas
+<br>
 :mortar_board: Master's Student at Unicamp
 
 

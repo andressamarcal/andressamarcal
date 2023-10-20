@@ -7,7 +7,7 @@
 <br>
 :mortar_board:  Post Graduate in Machine Learning and Solution Architecture at PUC Minas
 <br>
-👩‍💻 Machine Learning Engineer at Will Bank
+👩‍💻 Data Engineer at Will Bank
 
 [![Linkedin Badge](https://img.shields.io/badge/-andressamarcal-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andressa-mar%C3%A7al-6787b988/)](https://www.linkedin.com/in/andressa-mar%C3%A7al-6787b988/)
 

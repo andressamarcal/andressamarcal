@@ -6,6 +6,7 @@
 
 :mortar_board: **Education**
 - B.Sc. in Computer Science – University Center of João Pessoa (Unipê)
+- Post Graduate in Machine Learning and Solution Architecture at PUC Minas 
 - M.Sc. Candidate in AI Algorithm Ethics – University of Campinas (Unicamp)
 <br>
 <!-- :mortar_board:  Post Graduate in Machine Learning and Solution Architecture at PUC Minas 

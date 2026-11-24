@@ -3,6 +3,7 @@
 
 :mailbox:  andressagb@gmail.com
 <br>
+
 :mortar_board: **Education**
 - B.Sc. in Computer Science – University Center of João Pessoa (Unipê)
 - M.Sc. Candidate in AI Algorithm Ethics – University of Campinas (Unicamp)
